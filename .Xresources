@@ -1,0 +1,45 @@
+!!colors
+*background: #000000
+*foreground: #babdb6
+!Black (not tango) + DarkGrey
+*color0: #000000
+*color8: #555753
+!DarkRed + Red
+*color1: #cc0000
+*color9: #ff1919
+!DarkGreen + Green
+*color2: #93d44f
+*color10: #89cb45
+!DarkYellow + Yellow
+*color3: #eab93d
+*color11: #ffc123
+!DarkBlue + Blue
+*color4: #204a87
+*color12: #3465a4
+!DarkMagenta + Magenta
+*color5: #ce5c00
+*color13: #f57900
+!DarkCyan + Cyan (both not tango)
+*color6: #89b6e2
+*color14: #46a4ff
+!LightGrey + White
+*color7: #cccccc
+*color15: #ffffff
+
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+XTerm*termName: xterm-256color
+XTerm*utf8: true
+XTerm*dynamicColors: true
+XTerm*locale: true
+XTerm*metaSendsEscape: true
+XTerm*saveLines: 65535
+XTerm*fastScroll: true
+XTerm*backarrowKey: false 
+XTerm*ScrollBar: false
+XTerm*Font: xft:Terminus:pixelsize=12
